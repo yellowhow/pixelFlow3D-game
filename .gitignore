@@ -1,0 +1,29 @@
+# Unity generated
+Library/
+Temp/
+Logs/
+UserSettings/
+MemoryCaptures/
+Build/
+Builds/
+*.csproj
+*.slnx
+*.sln
+.DS_Store
+.vscode/
+.idea/
+*.apk
+*.aab
+*.unitypackage
+
+# Asset import cache
+*.meta
+!Assets/_Game/**/*.meta
+!Assets/GameObject/**/*.meta
+!Assets/JMO*/**/*.meta
+!Assets/Material/**/*.meta
+!Assets/Mesh/**/*.meta
+!Assets/MonoBehaviour/**/*.meta
+!Assets/Sprite/**/*.meta
+!Assets/Shader/**/*.meta
+!Assets/Texture2D/**/*.meta
